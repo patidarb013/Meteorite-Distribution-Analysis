@@ -14,14 +14,14 @@ Use predictive modeling to estimate meteorite characteristics based on historica
 Source: The Meteoritical Society
 Total Records: 34,513
 
-Key Columns:
-## name: Meteorite name
-## id: Unique identifier
-## mass: Weight of the meteorite
-## fall: Whether it was observed falling or found later
-## year: Year of landing/discovery
-## reclat, reclong: Latitude and longitude coordinates
-## recclass: Meteorite classification
+# Key Columns:
+name: Meteorite name
+id: Unique identifier
+mass: Weight of the meteorite
+fall: Whether it was observed falling or found later
+year: Year of landing/discovery
+reclat, reclong: Latitude and longitude coordinates
+recclass: Meteorite classification
 
 # Methodologies & Models Used
 ## 1. Logistic Regression Model
